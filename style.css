@@ -1,7 +1,10 @@
 .header {
   display: flex;
   justify-content: space-between;
+  text-align: center;
   background-color: rgb(50, 167, 145);
+  height: 50px;
+  padding: 9px;
 }
 
 .trybewarts-login {
