@@ -7,4 +7,4 @@ function validateFormSubmit() {
   button.disabled = false;
 }
 
-finalCheck.addEventListener('click', validateFormSubmit)
+finalCheck.addEventListener('click', validateFormSubmit);
