@@ -16,7 +16,13 @@ main {
 #evaluation-form {
     width: 675px;
     display: flex;
-    flex-direction: column;
+    flex-flow: column wrap;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 #trybewarts-forms-logo{
