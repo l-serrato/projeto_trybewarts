@@ -6,3 +6,12 @@
     display: flex;
     justify-content: flex-end;
 }
+
+main {
+    display: flex;
+}
+
+#evaluation-form {
+    width: 675px;
+    display: flex;
+}
